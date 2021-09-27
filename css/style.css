@@ -63,6 +63,7 @@ header{
 }
 #cent{
      margin: 10% 10% 10% 10%;
+     text-align: justify;
 }
 #cente{
      margin: 10% 10% 10% 10%;
@@ -85,3 +86,7 @@ header{
     margin-bottom: 1%;
    
 }
+.mb-0{
+    color: aliceblue;
+}
+
